@@ -80,3 +80,9 @@ button {
     background: #273549;
     
 }
+
+.pwText {
+    text-align: center;
+    color: #4ADF86;
+    justify-content: center;
+}
