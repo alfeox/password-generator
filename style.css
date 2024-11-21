@@ -78,11 +78,15 @@ button {
     height: 39px;
     border-radius: 6px;
     background: #273549;
-    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .pwText {
+   
+    align-items: center;
     text-align: center;
     color: #4ADF86;
-    justify-content: center;
+    margin: auto;
 }
