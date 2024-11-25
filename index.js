@@ -14,6 +14,7 @@ function createPassword() {
     return pw;
 }
 
+
 function insertPassword() {
     passwordField1.textContent = createPassword();
     passwordField2.textContent = createPassword();
